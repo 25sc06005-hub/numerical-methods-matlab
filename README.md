@@ -1,10 +1,36 @@
 # Numerical Methods in MATLAB
 
-This repository contains implementations of numerical methods:
+This repository contains implementations of core numerical methods used in engineering and data science.
 
-- Root finding (Bisection, Secant, Newton-Raphson)
-- Interpolation (Lagrange, Newton)
-- Numerical Integration
-- ODE Solvers (Euler, RK4)
+## 📌 Methods Included
 
-Author: Aryan Dutta
+### Root Finding
+- Bisection Method
+- Regula Falsi Method
+- Secant Method
+- Newton-Raphson Method
+
+### Interpolation
+- Lagrange Interpolation
+- Newton Forward & Backward
+- Divided Difference
+
+### Numerical Integration
+- Trapezoidal Rule
+- Simpson’s 1/3 Rule
+- Simpson’s 3/8 Rule
+
+### Differential Equations
+- Euler Method
+- Runge-Kutta (RK4)
+
+## 🛠️ Tech Used
+- MATLAB
+
+## 📈 Future Improvements
+- Add visualizations
+- Convert to Python
+- Compare accuracy of methods
+
+## 👨‍💻 Author
+Aryan Dutta
